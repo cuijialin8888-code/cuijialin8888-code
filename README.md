@@ -25,13 +25,13 @@ stable rule IDs, and text, JSON, SARIF, Markdown, and HTML output.
 
 An unofficial, read-only Windows diagnostics and troubleshooting toolkit for OpenAI Codex. It checks PowerShell, PATH, WSL, Codex CLI/Desktop, `CODEX_HOME`, ripgrep, archive tools, and related environment signals without automatically changing the system.
 
-[Repository](https://github.com/cuijialin8888-code/codex-win-doctor) · [Latest release](https://github.com/cuijialin8888-code/codex-win-doctor/releases/latest)
+[Repository](https://github.com/cuijialin8888-code/codex-win-doctor) · [Latest release](https://github.com/cuijialin8888-code/codex-win-doctor/releases/latest) · [CI](https://github.com/cuijialin8888-code/codex-win-doctor/actions/workflows/ci.yml)
 
 ### [Repo Context Doctor](https://github.com/cuijialin8888-code/repo-context-doctor)
 
 A local, read-only evidence inventory for coding-agent instructions and repository verification paths. It inventories instruction surfaces and discovers test, lint, format, type-check, and build paths with provenance and confidence—without running target repository commands or calling an LLM.
 
-[Repository](https://github.com/cuijialin8888-code/repo-context-doctor) · [Latest release](https://github.com/cuijialin8888-code/repo-context-doctor/releases/latest)
+[Repository](https://github.com/cuijialin8888-code/repo-context-doctor) · [Latest release](https://github.com/cuijialin8888-code/repo-context-doctor/releases/latest) · [CI](https://github.com/cuijialin8888-code/repo-context-doctor/actions/workflows/ci.yml)
 
 ### [Git Path Doctor](https://github.com/cuijialin8888-code/git-path-doctor)
 
@@ -40,7 +40,7 @@ or misses a path. It reports evidence from tracked state, ignore rules, sparse
 checkout, submodules, repository boundaries, and filesystem reality without
 mutating the target repository.
 
-[Repository](https://github.com/cuijialin8888-code/git-path-doctor) · [Latest release](https://github.com/cuijialin8888-code/git-path-doctor/releases/latest)
+[Repository](https://github.com/cuijialin8888-code/git-path-doctor) · [Latest release](https://github.com/cuijialin8888-code/git-path-doctor/releases/latest) · [CI](https://github.com/cuijialin8888-code/git-path-doctor/actions/workflows/ci.yml)
 
 ## Principles
 
