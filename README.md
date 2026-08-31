@@ -47,6 +47,7 @@ mutating the target repository.
 An offline, read-only CLI that explains why a Git hook will—or won't—run. It asks Git for effective hook paths and configuration provenance, inspects resolved hook files for execution blockers, and handles worktrees and cross-platform failures without running hooks or changing repositories.
 
 [Repository](https://github.com/cuijialin8888-code/git-hook-doctor) · [v0.1.0 release](https://github.com/cuijialin8888-code/git-hook-doctor/releases/tag/v0.1.0) · [CI](https://github.com/cuijialin8888-code/git-hook-doctor/actions/workflows/ci.yml)
+
 ## Principles
 
 - Read-only by default
