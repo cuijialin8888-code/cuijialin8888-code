@@ -48,6 +48,12 @@ An offline, read-only CLI that explains why a Git hook will—or won't—run. It
 
 [Repository](https://github.com/cuijialin8888-code/git-hook-doctor) · [v0.1.0 release](https://github.com/cuijialin8888-code/git-hook-doctor/releases/tag/v0.1.0) · [CI](https://github.com/cuijialin8888-code/git-hook-doctor/actions/workflows/ci.yml)
 
+### [CI Queue Doctor](https://github.com/cuijialin8888-code/ci-queue-doctor)
+
+A zero-runtime-dependency, GET-only CLI that turns public GitHub Actions run and job state into an evidence-backed diagnosis of queue conditions, without dispatching, rerunning, canceling, approving, or editing workflows.
+
+[Repository](https://github.com/cuijialin8888-code/ci-queue-doctor) · [v0.1.0 release](https://github.com/cuijialin8888-code/ci-queue-doctor/releases/tag/v0.1.0) · [CI](https://github.com/cuijialin8888-code/ci-queue-doctor/actions/workflows/ci.yml)
+
 ## Principles
 
 - Read-only by default
